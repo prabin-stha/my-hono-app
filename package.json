@@ -10,7 +10,7 @@
     "hono": "^4.9.4"
   },
   "devDependencies": {
-    "wrangler": "^4.4.0"
+    "wrangler": "^4.32.0"
   },
   "packageManager": "bun@1.2.19"
 }
