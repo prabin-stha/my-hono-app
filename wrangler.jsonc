@@ -3,6 +3,7 @@
   "name": "my-hono-app",
   "main": "src/index.tsx",
   "compatibility_date": "2025-08-22",
+  "minify": true,
   "dev": {
     "port": 8080,
     "ip": "localhost",
