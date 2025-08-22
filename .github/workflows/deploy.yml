@@ -18,6 +18,6 @@ jobs:
           bun-version: "1.2.19"
 
       - name: Deploy using Wrangler v4
-        uses: cloudflare/wrangler-action@v4
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
